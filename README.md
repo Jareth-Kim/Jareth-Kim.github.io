@@ -1,1 +1,3 @@
-# Jareth-Kim.github.io
+# Jareth's Columbia Programming Portfolio
+
+## Semester project
