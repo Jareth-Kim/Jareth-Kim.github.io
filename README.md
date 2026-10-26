@@ -6,5 +6,8 @@
 ### a simple guessing game where you try to guess the number of guys
 ### <img width="1595" height="846" alt="Screenshot 2026-10-19 154455" src="https://github.com/user-attachments/assets/24ab91cb-2bcc-413c-8c67-1499fc1f568d" />
 
+## One Page Navigation Test
+### Testing JS code to navigate on one page(https://jareth-kim.github.io/OnePageJSSite/)
+
 ## Semester project
 ### add more stuff when i actually have it
